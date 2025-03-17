@@ -10,6 +10,7 @@ public class DemoApplication {
 	iny y = 12;
 	double z = 10.8;
 	boolean isPresent = false;
+	float f = 12.3f;
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
