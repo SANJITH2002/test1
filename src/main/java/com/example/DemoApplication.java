@@ -10,6 +10,7 @@ public class DemoApplication {
 	iny y = 12;
 	double z = 10.8;
 	boolean isPresent = false;
+	char v = 'a';
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
