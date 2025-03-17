@@ -5,7 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DemoApplication {
-        char r = 'a';
+        String name = "mike";
+	int x = 10;
+	iny y = 12;
+	double z = 10.8;
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
